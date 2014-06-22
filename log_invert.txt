@@ -1,0 +1,1539 @@
+18:07:36,625 METHOD_STARTED pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 -
+Test Method Started: TestTest.test
+18:07:36,626 METHOD_DESCRIPTION pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Description: null
+18:07:40,573  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:49 - My: (n = 1): 3542
+18:07:40,574  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:50 - My: (n = 1, total): 3884
+18:08:00,984  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:59 - Old: (n = 1): 5135
+18:08:00,988  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:60 - Old: (n = 1, total): 5408
+18:08:20,598  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:69 - Sobol (n = 1): 4337
+18:08:20,600  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:70 - Sobol (n = 1, total): 4608
+18:08:35,603 METHOD_SUCCESS pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Successfully finished: TestTest.test
+
+18:08:35,605 METHOD_STARTED pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 -
+Test Method Started: TestTest.test
+18:08:35,606 METHOD_DESCRIPTION pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Description: null
+18:08:41,070  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:49 - My: (n = 2): 5133
+18:08:41,071  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:50 - My: (n = 2, total): 5463
+18:09:00,480  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:59 - Old: (n = 2): 4066
+18:09:00,481  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:60 - Old: (n = 2, total): 4408
+18:09:20,967  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:69 - Sobol (n = 2): 5147
+18:09:20,968  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:70 - Sobol (n = 2, total): 5485
+18:09:35,969 METHOD_SUCCESS pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Successfully finished: TestTest.test
+
+18:09:35,972 METHOD_STARTED pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 -
+Test Method Started: TestTest.test
+18:09:35,973 METHOD_DESCRIPTION pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Description: null
+18:09:40,491  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:49 - My: (n = 3): 4139
+18:09:40,492  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:50 - My: (n = 3, total): 4517
+18:10:00,960  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:59 - Old: (n = 3): 5072
+18:10:00,961  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:60 - Old: (n = 3, total): 5467
+18:10:20,487  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:69 - Sobol (n = 3): 4148
+18:10:20,488  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:70 - Sobol (n = 3, total): 4526
+18:10:35,489 METHOD_SUCCESS pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Successfully finished: TestTest.test
+
+18:10:35,492 METHOD_STARTED pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 -
+Test Method Started: TestTest.test
+18:10:35,493 METHOD_DESCRIPTION pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Description: null
+18:10:41,146  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:49 - My: (n = 4): 5197
+18:10:41,147  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:50 - My: (n = 4, total): 5652
+18:11:00,672  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:59 - Old: (n = 4): 4084
+18:11:00,673  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:60 - Old: (n = 4, total): 4524
+18:11:21,297  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:69 - Sobol (n = 4): 5162
+18:11:21,298  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:70 - Sobol (n = 4, total): 5623
+18:11:36,300 METHOD_SUCCESS pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Successfully finished: TestTest.test
+
+18:11:36,303 METHOD_STARTED pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 -
+Test Method Started: TestTest.test
+18:11:36,304 METHOD_DESCRIPTION pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Description: null
+18:11:41,028  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:49 - My: (n = 5): 4207
+18:11:41,029  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:50 - My: (n = 5, total): 4723
+18:12:00,627  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:59 - Old: (n = 5): 4099
+18:12:00,628  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:60 - Old: (n = 5, total): 4597
+18:12:21,345  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:69 - Sobol (n = 5): 5189
+18:12:21,347  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:70 - Sobol (n = 5, total): 5716
+18:12:36,348 METHOD_SUCCESS pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Successfully finished: TestTest.test
+
+18:12:36,351 METHOD_STARTED pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 -
+Test Method Started: TestTest.test
+18:12:36,352 METHOD_DESCRIPTION pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Description: null
+18:12:41,174  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:49 - My: (n = 6): 4206
+18:12:41,175  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:50 - My: (n = 6, total): 4821
+18:13:00,848  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:59 - Old: (n = 6): 4107
+18:13:00,849  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:60 - Old: (n = 6, total): 4672
+18:13:20,582  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:69 - Sobol (n = 6): 4160
+18:13:20,583  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:70 - Sobol (n = 6, total): 4732
+18:13:35,584 METHOD_SUCCESS pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Successfully finished: TestTest.test
+
+18:13:35,587 METHOD_STARTED pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 -
+Test Method Started: TestTest.test
+18:13:35,587 METHOD_DESCRIPTION pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Description: null
+18:13:40,453  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:49 - My: (n = 7): 4247
+18:13:40,454  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:50 - My: (n = 7, total): 4865
+18:14:01,196  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:59 - Old: (n = 7): 5115
+18:14:01,197  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:60 - Old: (n = 7, total): 5740
+18:14:21,041  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:69 - Sobol (n = 7): 4209
+18:14:21,043  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:70 - Sobol (n = 7, total): 4843
+18:14:36,045 METHOD_SUCCESS pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Successfully finished: TestTest.test
+
+18:14:36,047 METHOD_STARTED pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 -
+Test Method Started: TestTest.test
+18:14:36,048 METHOD_DESCRIPTION pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Description: null
+18:14:41,029  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:49 - My: (n = 8): 4266
+18:14:41,031  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:50 - My: (n = 8, total): 4980
+18:15:00,829  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:59 - Old: (n = 8): 4121
+18:15:00,831  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:60 - Old: (n = 8, total): 4797
+18:15:20,638  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:69 - Sobol (n = 8): 4151
+18:15:20,639  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:70 - Sobol (n = 8, total): 4806
+18:15:35,641 METHOD_SUCCESS pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Successfully finished: TestTest.test
+
+18:15:35,643 METHOD_STARTED pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 -
+Test Method Started: TestTest.test
+18:15:35,644 METHOD_DESCRIPTION pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Description: null
+18:15:40,670  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:49 - My: (n = 9): 4304
+18:15:40,672  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:50 - My: (n = 9, total): 5025
+18:16:00,545  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:59 - Old: (n = 9): 4114
+18:16:00,546  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:60 - Old: (n = 9, total): 4871
+18:16:20,479  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:69 - Sobol (n = 9): 4162
+18:16:20,481  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:70 - Sobol (n = 9, total): 4932
+18:16:35,483 METHOD_SUCCESS pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Successfully finished: TestTest.test
+
+18:16:35,485 METHOD_STARTED pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 -
+Test Method Started: TestTest.test
+18:16:35,486 METHOD_DESCRIPTION pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Description: null
+18:16:40,600  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:49 - My: (n = 10): 4311
+18:16:40,602  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:50 - My: (n = 10, total): 5113
+18:17:00,497  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:59 - Old: (n = 10): 4118
+18:17:00,498  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:60 - Old: (n = 10, total): 4894
+18:17:20,401  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:69 - Sobol (n = 10): 4126
+18:17:20,403  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:70 - Sobol (n = 10, total): 4903
+18:17:35,404 METHOD_SUCCESS pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Successfully finished: TestTest.test
+
+18:17:35,407 METHOD_STARTED pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 -
+Test Method Started: TestTest.test
+18:17:35,407 METHOD_DESCRIPTION pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Description: null
+18:17:41,365  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:49 - My: (n = 50): 2852
+18:17:41,366  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:50 - My: (n = 50, total): 5957
+18:18:21,054  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:59 - Old: (n = 50): 21576
+18:18:21,055  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:60 - Old: (n = 50, total): 24687
+18:18:41,337  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:69 - Sobol (n = 50): 2209
+18:18:41,338  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:70 - Sobol (n = 50, total): 5281
+18:18:56,340 METHOD_SUCCESS pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Successfully finished: TestTest.test
+
+18:18:56,343 METHOD_STARTED pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 -
+Test Method Started: TestTest.test
+18:18:56,344 METHOD_DESCRIPTION pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Description: null
+18:19:21,696  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:49 - My: (n = 100): 19390
+18:19:21,697  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:50 - My: (n = 100, total): 25351
+18:20:01,634  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:59 - Old: (n = 100): 18967
+18:20:01,635  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:60 - Old: (n = 100, total): 24936
+18:20:40,875  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:69 - Sobol (n = 100): 18278
+18:20:40,877  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:70 - Sobol (n = 100, total): 24239
+18:20:55,879 METHOD_SUCCESS pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Successfully finished: TestTest.test
+
+18:20:55,881 METHOD_STARTED pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 -
+Test Method Started: TestTest.test
+18:20:55,883 METHOD_DESCRIPTION pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Description: null
+18:21:21,701  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:49 - My: (n = 200): 14316
+18:21:21,702  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:50 - My: (n = 200, total): 25817
+18:22:01,893  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:59 - Old: (n = 200): 13685
+18:22:01,894  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:60 - Old: (n = 200, total): 25190
+18:22:41,518  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:69 - Sobol (n = 200): 13096
+18:22:41,519  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:70 - Sobol (n = 200, total): 24623
+18:22:56,521 METHOD_SUCCESS pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Successfully finished: TestTest.test
+
+18:22:56,523 METHOD_STARTED pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 -
+Test Method Started: TestTest.test
+18:22:56,524 METHOD_DESCRIPTION pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Description: null
+18:23:23,237  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:49 - My: (n = 400): 3898
+18:23:23,238  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:50 - My: (n = 400, total): 26713
+18:24:21,353  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:59 - Old: (n = 400): 20247
+18:24:21,355  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:60 - Old: (n = 400, total): 43114
+18:25:01,975  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:69 - Sobol (n = 400): 2974
+18:25:01,976  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:70 - Sobol (n = 400, total): 25620
+18:25:16,978 METHOD_SUCCESS pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Successfully finished: TestTest.test
+
+18:25:16,984 METHOD_STARTED pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 -
+Test Method Started: TestTest.test
+18:25:16,985 METHOD_DESCRIPTION pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Description: null
+18:25:21,317  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:49 - My: (n = 1): 4048
+18:25:21,318  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:50 - My: (n = 1, total): 4330
+18:25:40,614  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:59 - Old: (n = 1): 4041
+18:25:40,615  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:60 - Old: (n = 1, total): 4295
+18:26:00,970  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:69 - Sobol (n = 1): 5110
+18:26:00,971  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:70 - Sobol (n = 1, total): 5354
+18:26:15,973 METHOD_SUCCESS pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Successfully finished: TestTest.test
+
+18:26:15,976 METHOD_STARTED pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 -
+Test Method Started: TestTest.test
+18:26:15,977 METHOD_DESCRIPTION pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Description: null
+18:26:21,392  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:49 - My: (n = 2): 5089
+18:26:21,392  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:50 - My: (n = 2, total): 5414
+18:26:40,763  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:59 - Old: (n = 2): 4065
+18:26:40,764  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:60 - Old: (n = 2, total): 4370
+18:27:01,191  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:69 - Sobol (n = 2): 5114
+18:27:01,192  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:70 - Sobol (n = 2, total): 5425
+18:27:16,194 METHOD_SUCCESS pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Successfully finished: TestTest.test
+
+18:27:16,196 METHOD_STARTED pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 -
+Test Method Started: TestTest.test
+18:27:16,197 METHOD_DESCRIPTION pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Description: null
+18:27:20,692  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:49 - My: (n = 3): 4097
+18:27:20,693  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:50 - My: (n = 3, total): 4494
+18:27:41,203  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:59 - Old: (n = 3): 5062
+18:27:41,205  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:60 - Old: (n = 3, total): 5509
+18:28:00,693  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:69 - Sobol (n = 3): 4098
+18:28:00,694  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:70 - Sobol (n = 3, total): 4487
+18:28:15,696 METHOD_SUCCESS pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Successfully finished: TestTest.test
+
+18:28:15,699 METHOD_STARTED pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 -
+Test Method Started: TestTest.test
+18:28:15,700 METHOD_DESCRIPTION pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Description: null
+18:28:21,306  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:49 - My: (n = 4): 5152
+18:28:21,307  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:50 - My: (n = 4, total): 5605
+18:28:40,806  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:59 - Old: (n = 4): 4076
+18:28:40,807  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:60 - Old: (n = 4, total): 4498
+18:29:01,358  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:69 - Sobol (n = 4): 5135
+18:29:01,360  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:70 - Sobol (n = 4, total): 5550
+18:29:16,362 METHOD_SUCCESS pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Successfully finished: TestTest.test
+
+18:29:16,365 METHOD_STARTED pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 -
+Test Method Started: TestTest.test
+18:29:16,365 METHOD_DESCRIPTION pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Description: null
+18:29:20,995  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:49 - My: (n = 5): 4147
+18:29:20,996  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:50 - My: (n = 5, total): 4629
+18:29:40,554  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:59 - Old: (n = 5): 4074
+18:29:40,555  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:60 - Old: (n = 5, total): 4557
+18:30:01,183  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:69 - Sobol (n = 5): 5132
+18:30:01,184  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:70 - Sobol (n = 5, total): 5627
+18:30:16,185 METHOD_SUCCESS pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Successfully finished: TestTest.test
+
+18:30:16,187 METHOD_STARTED pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 -
+Test Method Started: TestTest.test
+18:30:16,188 METHOD_DESCRIPTION pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Description: null
+18:30:20,905  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:49 - My: (n = 6): 4178
+18:30:20,906  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:50 - My: (n = 6, total): 4716
+18:30:40,542  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:59 - Old: (n = 6): 4099
+18:30:40,543  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:60 - Old: (n = 6, total): 4635
+18:31:01,226  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:69 - Sobol (n = 6): 5133
+18:31:01,228  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:70 - Sobol (n = 6, total): 5682
+18:31:16,230 METHOD_SUCCESS pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Successfully finished: TestTest.test
+
+18:31:16,233 METHOD_STARTED pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 -
+Test Method Started: TestTest.test
+18:31:16,233 METHOD_DESCRIPTION pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Description: null
+18:31:21,000  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:49 - My: (n = 7): 4192
+18:31:21,002  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:50 - My: (n = 7, total): 4766
+18:31:40,671  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:59 - Old: (n = 7): 4086
+18:31:40,673  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:60 - Old: (n = 7, total): 4668
+18:32:01,418  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:69 - Sobol (n = 7): 5156
+18:32:01,419  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:70 - Sobol (n = 7, total): 5744
+18:32:16,422 METHOD_SUCCESS pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Successfully finished: TestTest.test
+
+18:32:16,424 METHOD_STARTED pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 -
+Test Method Started: TestTest.test
+18:32:16,425 METHOD_DESCRIPTION pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Description: null
+18:32:21,339  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:49 - My: (n = 8): 4233
+18:32:21,340  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:50 - My: (n = 8, total): 4913
+18:32:41,115  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:59 - Old: (n = 8): 4092
+18:32:41,117  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:60 - Old: (n = 8, total): 4773
+18:33:00,873  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:69 - Sobol (n = 8): 4120
+18:33:00,875  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:70 - Sobol (n = 8, total): 4754
+18:33:15,877 METHOD_SUCCESS pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Successfully finished: TestTest.test
+
+18:33:15,879 METHOD_STARTED pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 -
+Test Method Started: TestTest.test
+18:33:15,880 METHOD_DESCRIPTION pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Description: null
+18:33:20,874  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:49 - My: (n = 9): 4257
+18:33:20,876  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:50 - My: (n = 9, total): 4993
+18:33:40,688  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:59 - Old: (n = 9): 4095
+18:33:40,689  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:60 - Old: (n = 9, total): 4810
+18:34:00,540  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:69 - Sobol (n = 9): 4115
+18:34:00,541  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:70 - Sobol (n = 9, total): 4850
+18:34:15,543 METHOD_SUCCESS pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Successfully finished: TestTest.test
+
+18:34:15,546 METHOD_STARTED pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 -
+Test Method Started: TestTest.test
+18:34:15,547 METHOD_DESCRIPTION pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Description: null
+18:34:20,580  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:49 - My: (n = 10): 4272
+18:34:20,581  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:50 - My: (n = 10, total): 5032
+18:34:41,494  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:59 - Old: (n = 10): 5126
+18:34:41,495  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:60 - Old: (n = 10, total): 5912
+18:35:01,379  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:69 - Sobol (n = 10): 4132
+18:35:01,380  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:70 - Sobol (n = 10, total): 4882
+18:35:16,381 METHOD_SUCCESS pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Successfully finished: TestTest.test
+
+18:35:16,383 METHOD_STARTED pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 -
+Test Method Started: TestTest.test
+18:35:16,384 METHOD_DESCRIPTION pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Description: null
+18:35:20,880  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:49 - My: (n = 50): 1506
+18:35:20,881  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:50 - My: (n = 50, total): 4495
+18:35:41,316  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:59 - Old: (n = 50): 2397
+18:35:41,317  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:60 - Old: (n = 50, total): 5433
+18:36:01,555  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:69 - Sobol (n = 50): 2213
+18:36:01,556  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:70 - Sobol (n = 50, total): 5236
+18:36:16,557 METHOD_SUCCESS pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Successfully finished: TestTest.test
+
+18:36:16,560 METHOD_STARTED pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 -
+Test Method Started: TestTest.test
+18:36:16,561 METHOD_DESCRIPTION pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Description: null
+18:36:41,283  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:49 - My: (n = 100): 18935
+18:36:41,285  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:50 - My: (n = 100, total): 24722
+18:37:21,122  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:59 - Old: (n = 100): 18915
+18:37:21,123  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:60 - Old: (n = 100, total): 24836
+18:38:01,372  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:69 - Sobol (n = 100): 19370
+18:38:01,374  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:70 - Sobol (n = 100, total): 25248
+18:38:16,376 METHOD_SUCCESS pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Successfully finished: TestTest.test
+
+18:38:16,378 METHOD_STARTED pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 -
+Test Method Started: TestTest.test
+18:38:16,379 METHOD_DESCRIPTION pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Description: null
+18:38:42,091  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:49 - My: (n = 200): 14290
+18:38:42,092  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:50 - My: (n = 200, total): 25711
+18:39:22,303  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:59 - Old: (n = 200): 13689
+18:39:22,304  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:60 - Old: (n = 200, total): 25209
+18:40:00,767  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:69 - Sobol (n = 200): 11992
+18:40:00,768  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:70 - Sobol (n = 200, total): 23461
+18:40:15,770 METHOD_SUCCESS pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Successfully finished: TestTest.test
+
+18:40:15,772 METHOD_STARTED pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 -
+Test Method Started: TestTest.test
+18:40:15,773 METHOD_DESCRIPTION pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Description: null
+18:40:43,053  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:49 - My: (n = 400): 4424
+18:40:43,055  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:50 - My: (n = 400, total): 27279
+18:41:41,233  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:59 - Old: (n = 400): 20281
+18:41:41,234  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:60 - Old: (n = 400, total): 43178
+18:42:21,845  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:69 - Sobol (n = 400): 2838
+18:42:21,845  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:70 - Sobol (n = 400, total): 25610
+18:42:36,847 METHOD_SUCCESS pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Successfully finished: TestTest.test
+
+18:42:36,855 METHOD_STARTED pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 -
+Test Method Started: TestTest.test
+18:42:36,856 METHOD_DESCRIPTION pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Description: null
+18:42:41,207  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:49 - My: (n = 1): 4056
+18:42:41,209  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:50 - My: (n = 1, total): 4350
+18:43:00,502  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:59 - Old: (n = 1): 4040
+18:43:00,503  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:60 - Old: (n = 1, total): 4293
+18:43:20,921  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:69 - Sobol (n = 1): 5110
+18:43:20,923  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:70 - Sobol (n = 1, total): 5417
+18:43:35,925 METHOD_SUCCESS pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Successfully finished: TestTest.test
+
+18:43:35,927 METHOD_STARTED pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 -
+Test Method Started: TestTest.test
+18:43:35,928 METHOD_DESCRIPTION pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Description: null
+18:43:41,339  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:49 - My: (n = 2): 5092
+18:43:41,340  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:50 - My: (n = 2, total): 5410
+18:44:00,726  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:59 - Old: (n = 2): 4045
+18:44:00,727  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:60 - Old: (n = 2, total): 4384
+18:44:21,167  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:69 - Sobol (n = 2): 5126
+18:44:21,168  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:70 - Sobol (n = 2, total): 5440
+18:44:36,170 METHOD_SUCCESS pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Successfully finished: TestTest.test
+
+18:44:36,172 METHOD_STARTED pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 -
+Test Method Started: TestTest.test
+18:44:36,173 METHOD_DESCRIPTION pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Description: null
+18:44:40,652  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:49 - My: (n = 3): 4102
+18:44:40,654  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:50 - My: (n = 3, total): 4478
+18:45:01,097  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:59 - Old: (n = 3): 5064
+18:45:01,098  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:60 - Old: (n = 3, total): 5443
+18:45:20,567  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:69 - Sobol (n = 3): 4097
+18:45:20,568  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:70 - Sobol (n = 3, total): 4468
+18:45:35,570 METHOD_SUCCESS pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Successfully finished: TestTest.test
+
+18:45:35,572 METHOD_STARTED pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 -
+Test Method Started: TestTest.test
+18:45:35,572 METHOD_DESCRIPTION pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Description: null
+18:45:41,152  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:49 - My: (n = 4): 5173
+18:45:41,153  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:50 - My: (n = 4, total): 5579
+18:46:00,627  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:59 - Old: (n = 4): 4060
+18:46:00,628  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:60 - Old: (n = 4, total): 4473
+18:46:21,166  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:69 - Sobol (n = 4): 5132
+18:46:21,168  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:70 - Sobol (n = 4, total): 5537
+18:46:36,170 METHOD_SUCCESS pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Successfully finished: TestTest.test
+
+18:46:36,172 METHOD_STARTED pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 -
+Test Method Started: TestTest.test
+18:46:36,173 METHOD_DESCRIPTION pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Description: null
+18:46:40,791  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:49 - My: (n = 5): 4145
+18:46:40,792  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:50 - My: (n = 5, total): 4618
+18:47:01,343  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:59 - Old: (n = 5): 5072
+18:47:01,343  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:60 - Old: (n = 5, total): 5550
+18:47:20,936  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:69 - Sobol (n = 5): 4109
+18:47:20,938  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:70 - Sobol (n = 5, total): 4592
+18:47:35,940 METHOD_SUCCESS pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Successfully finished: TestTest.test
+
+18:47:35,942 METHOD_STARTED pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 -
+Test Method Started: TestTest.test
+18:47:35,943 METHOD_DESCRIPTION pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Description: null
+18:47:40,663  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:49 - My: (n = 6): 4180
+18:47:40,665  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:50 - My: (n = 6, total): 4719
+18:48:01,292  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:59 - Old: (n = 6): 5082
+18:48:01,293  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:60 - Old: (n = 6, total): 5627
+18:48:20,947  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:69 - Sobol (n = 6): 4111
+18:48:20,948  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:70 - Sobol (n = 6, total): 4653
+18:48:35,950 METHOD_SUCCESS pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Successfully finished: TestTest.test
+
+18:48:35,953 METHOD_STARTED pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 -
+Test Method Started: TestTest.test
+18:48:35,953 METHOD_DESCRIPTION pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Description: null
+18:48:40,766  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:49 - My: (n = 7): 4213
+18:48:40,767  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:50 - My: (n = 7, total): 4812
+18:49:00,446  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:59 - Old: (n = 7): 4092
+18:49:00,447  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:60 - Old: (n = 7, total): 4678
+18:49:21,182  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:69 - Sobol (n = 7): 5145
+18:49:21,183  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:70 - Sobol (n = 7, total): 5732
+18:49:36,184 METHOD_SUCCESS pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Successfully finished: TestTest.test
+
+18:49:36,186 METHOD_STARTED pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 -
+Test Method Started: TestTest.test
+18:49:36,187 METHOD_DESCRIPTION pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Description: null
+18:49:41,089  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:49 - My: (n = 8): 4237
+18:49:41,091  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:50 - My: (n = 8, total): 4901
+18:50:00,861  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:59 - Old: (n = 8): 4098
+18:50:00,862  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:60 - Old: (n = 8, total): 4769
+18:50:20,658  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:69 - Sobol (n = 8): 4123
+18:50:20,659  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:70 - Sobol (n = 8, total): 4795
+18:50:35,661 METHOD_SUCCESS pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Successfully finished: TestTest.test
+
+18:50:35,664 METHOD_STARTED pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 -
+Test Method Started: TestTest.test
+18:50:35,665 METHOD_DESCRIPTION pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Description: null
+18:50:40,583  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:49 - My: (n = 9): 4244
+18:50:40,584  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:50 - My: (n = 9, total): 4918
+18:51:01,413  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:59 - Old: (n = 9): 5122
+18:51:01,414  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:60 - Old: (n = 9, total): 5829
+18:51:21,240  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:69 - Sobol (n = 9): 4132
+18:51:21,242  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:70 - Sobol (n = 9, total): 4825
+18:51:36,244 METHOD_SUCCESS pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Successfully finished: TestTest.test
+
+18:51:36,246 METHOD_STARTED pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 -
+Test Method Started: TestTest.test
+18:51:36,247 METHOD_DESCRIPTION pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Description: null
+18:51:41,298  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:49 - My: (n = 10): 4292
+18:51:41,299  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:50 - My: (n = 10, total): 5050
+18:52:01,202  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:59 - Old: (n = 10): 4107
+18:52:01,204  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:60 - Old: (n = 10, total): 4902
+18:52:21,108  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:69 - Sobol (n = 10): 4131
+18:52:21,110  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:70 - Sobol (n = 10, total): 4903
+18:52:36,111 METHOD_SUCCESS pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Successfully finished: TestTest.test
+
+18:52:36,113 METHOD_STARTED pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 -
+Test Method Started: TestTest.test
+18:52:36,115 METHOD_DESCRIPTION pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Description: null
+18:52:40,646  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:49 - My: (n = 50): 1516
+18:52:40,647  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:50 - My: (n = 50, total): 4530
+18:53:01,099  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:59 - Old: (n = 50): 2435
+18:53:01,101  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:60 - Old: (n = 50, total): 5450
+18:53:21,378  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:69 - Sobol (n = 50): 2194
+18:53:21,379  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:70 - Sobol (n = 50, total): 5276
+18:53:36,381 METHOD_SUCCESS pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Successfully finished: TestTest.test
+
+18:53:36,383 METHOD_STARTED pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 -
+Test Method Started: TestTest.test
+18:53:36,385 METHOD_DESCRIPTION pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Description: null
+18:54:00,787  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:49 - My: (n = 100): 18531
+18:54:00,788  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:50 - My: (n = 100, total): 24402
+18:54:41,690  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:59 - Old: (n = 100): 19963
+18:54:41,691  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:60 - Old: (n = 100, total): 25900
+18:55:21,040  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:69 - Sobol (n = 100): 18430
+18:55:21,041  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:70 - Sobol (n = 100, total): 24347
+18:55:36,043 METHOD_SUCCESS pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Successfully finished: TestTest.test
+
+18:55:36,045 METHOD_STARTED pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 -
+Test Method Started: TestTest.test
+18:55:36,046 METHOD_DESCRIPTION pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Description: null
+18:56:02,158  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:49 - My: (n = 200): 14458
+18:56:02,159  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:50 - My: (n = 200, total): 26111
+18:56:42,426  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:59 - Old: (n = 200): 13693
+18:56:42,428  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:60 - Old: (n = 200, total): 25266
+18:57:20,931  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:69 - Sobol (n = 200): 12004
+18:57:20,932  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:70 - Sobol (n = 200, total): 23501
+18:57:35,934 METHOD_SUCCESS pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Successfully finished: TestTest.test
+
+18:57:35,937 METHOD_STARTED pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 -
+Test Method Started: TestTest.test
+18:57:35,938 METHOD_DESCRIPTION pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Description: null
+18:58:03,086  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:49 - My: (n = 400): 4402
+18:58:03,087  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:50 - My: (n = 400, total): 27147
+18:59:01,119  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:59 - Old: (n = 400): 20272
+18:59:01,121  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:60 - Old: (n = 400, total): 43030
+19:00:01,311  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:69 - Sobol (n = 400): 22465
+19:00:01,312  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:70 - Sobol (n = 400, total): 45188
+19:00:16,314 METHOD_SUCCESS pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Successfully finished: TestTest.test
+
+19:00:16,319 METHOD_STARTED pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 -
+Test Method Started: TestTest.test
+19:00:16,320 METHOD_DESCRIPTION pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Description: null
+19:00:20,672  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:49 - My: (n = 1): 4057
+19:00:20,673  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:50 - My: (n = 1, total): 4352
+19:00:40,971  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:59 - Old: (n = 1): 5041
+19:00:40,972  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:60 - Old: (n = 1, total): 5297
+19:01:00,337  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:69 - Sobol (n = 1): 4110
+19:01:00,339  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:70 - Sobol (n = 1, total): 4363
+19:01:15,341 METHOD_SUCCESS pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Successfully finished: TestTest.test
+
+19:01:15,344 METHOD_STARTED pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 -
+Test Method Started: TestTest.test
+19:01:15,345 METHOD_DESCRIPTION pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Description: null
+19:01:20,744  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:49 - My: (n = 2): 5090
+19:01:20,747  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:50 - My: (n = 2, total): 5397
+19:01:41,134  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:59 - Old: (n = 2): 5052
+19:01:41,136  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:60 - Old: (n = 2, total): 5386
+19:02:00,588  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:69 - Sobol (n = 2): 4098
+19:02:00,589  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:70 - Sobol (n = 2, total): 4450
+19:02:15,591 METHOD_SUCCESS pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Successfully finished: TestTest.test
+
+19:02:15,594 METHOD_STARTED pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 -
+Test Method Started: TestTest.test
+19:02:15,595 METHOD_DESCRIPTION pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Description: null
+19:02:21,098  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:49 - My: (n = 3): 5123
+19:02:21,099  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:50 - My: (n = 3, total): 5501
+19:02:40,516  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:59 - Old: (n = 3): 4046
+19:02:40,517  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:60 - Old: (n = 3, total): 4415
+19:03:01,030  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:69 - Sobol (n = 3): 5135
+19:03:01,031  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:70 - Sobol (n = 3, total): 5512
+19:03:16,033 METHOD_SUCCESS pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Successfully finished: TestTest.test
+
+19:03:16,036 METHOD_STARTED pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 -
+Test Method Started: TestTest.test
+19:03:16,036 METHOD_DESCRIPTION pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Description: null
+19:03:20,594  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:49 - My: (n = 4): 4128
+19:03:20,595  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:50 - My: (n = 4, total): 4557
+19:03:41,099  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:59 - Old: (n = 4): 5066
+19:03:41,100  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:60 - Old: (n = 4, total): 5503
+19:04:00,647  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:69 - Sobol (n = 4): 4098
+19:04:00,648  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:70 - Sobol (n = 4, total): 4546
+19:04:15,650 METHOD_SUCCESS pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Successfully finished: TestTest.test
+
+19:04:15,652 METHOD_STARTED pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 -
+Test Method Started: TestTest.test
+19:04:15,653 METHOD_DESCRIPTION pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Description: null
+19:04:20,275  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:49 - My: (n = 5): 4149
+19:04:20,276  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:50 - My: (n = 5, total): 4621
+19:04:40,850  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:59 - Old: (n = 5): 5078
+19:04:40,852  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:60 - Old: (n = 5, total): 5573
+19:05:00,453  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:69 - Sobol (n = 5): 4106
+19:05:00,455  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:70 - Sobol (n = 5, total): 4600
+19:05:15,457 METHOD_SUCCESS pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Successfully finished: TestTest.test
+
+19:05:15,459 METHOD_STARTED pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 -
+Test Method Started: TestTest.test
+19:05:15,460 METHOD_DESCRIPTION pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Description: null
+19:05:21,217  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:49 - My: (n = 6): 5210
+19:05:21,218  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:50 - My: (n = 6, total): 5756
+19:05:40,894  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:59 - Old: (n = 6): 4077
+19:05:40,896  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:60 - Old: (n = 6, total): 4675
+19:06:00,535  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:69 - Sobol (n = 6): 4108
+19:06:00,536  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:70 - Sobol (n = 6, total): 4637
+19:06:15,538 METHOD_SUCCESS pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Successfully finished: TestTest.test
+
+19:06:15,540 METHOD_STARTED pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 -
+Test Method Started: TestTest.test
+19:06:15,541 METHOD_DESCRIPTION pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Description: null
+19:06:20,356  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:49 - My: (n = 7): 4214
+19:06:20,357  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:50 - My: (n = 7, total): 4814
+19:06:41,040  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:59 - Old: (n = 7): 5100
+19:06:41,041  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:60 - Old: (n = 7, total): 5682
+19:07:00,766  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:69 - Sobol (n = 7): 4118
+19:07:00,767  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:70 - Sobol (n = 7, total): 4724
+19:07:15,769 METHOD_SUCCESS pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Successfully finished: TestTest.test
+
+19:07:15,771 METHOD_STARTED pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 -
+Test Method Started: TestTest.test
+19:07:15,772 METHOD_DESCRIPTION pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Description: null
+19:07:20,644  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:49 - My: (n = 8): 4219
+19:07:20,645  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:50 - My: (n = 8, total): 4871
+19:07:40,436  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:59 - Old: (n = 8): 4102
+19:07:40,438  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:60 - Old: (n = 8, total): 4790
+19:08:01,274  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:69 - Sobol (n = 8): 5148
+19:08:01,275  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:70 - Sobol (n = 8, total): 5836
+19:08:16,277 METHOD_SUCCESS pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Successfully finished: TestTest.test
+
+19:08:16,279 METHOD_STARTED pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 -
+Test Method Started: TestTest.test
+19:08:16,281 METHOD_DESCRIPTION pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Description: null
+19:08:21,278  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:49 - My: (n = 9): 4249
+19:08:21,280  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:50 - My: (n = 9, total): 4996
+19:08:41,124  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:59 - Old: (n = 9): 4107
+19:08:41,125  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:60 - Old: (n = 9, total): 4843
+19:09:00,956  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:69 - Sobol (n = 9): 4145
+19:09:00,958  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:70 - Sobol (n = 9, total): 4830
+19:09:15,960 METHOD_SUCCESS pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Successfully finished: TestTest.test
+
+19:09:15,962 METHOD_STARTED pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 -
+Test Method Started: TestTest.test
+19:09:15,963 METHOD_DESCRIPTION pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Description: null
+19:09:20,980  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:49 - My: (n = 10): 4264
+19:09:20,982  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:50 - My: (n = 10, total): 5016
+19:09:40,815  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:59 - Old: (n = 10): 4112
+19:09:40,816  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:60 - Old: (n = 10, total): 4832
+19:10:00,748  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:69 - Sobol (n = 10): 4125
+19:10:00,749  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:70 - Sobol (n = 10, total): 4931
+19:10:15,750 METHOD_SUCCESS pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Successfully finished: TestTest.test
+
+19:10:15,752 METHOD_STARTED pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 -
+Test Method Started: TestTest.test
+19:10:15,753 METHOD_DESCRIPTION pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Description: null
+19:10:21,517  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:49 - My: (n = 50): 2749
+19:10:21,518  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:50 - My: (n = 50, total): 5763
+19:10:40,942  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:59 - Old: (n = 50): 1395
+19:10:40,943  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:60 - Old: (n = 50, total): 4423
+19:11:01,197  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:69 - Sobol (n = 50): 2208
+19:11:01,198  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:70 - Sobol (n = 50, total): 5253
+19:11:16,200 METHOD_SUCCESS pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Successfully finished: TestTest.test
+
+19:11:16,202 METHOD_STARTED pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 -
+Test Method Started: TestTest.test
+19:11:16,203 METHOD_DESCRIPTION pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Description: null
+19:11:41,504  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:49 - My: (n = 100): 19443
+19:11:41,505  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:50 - My: (n = 100, total): 25300
+19:12:21,317  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:59 - Old: (n = 100): 18926
+19:12:21,319  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:60 - Old: (n = 100, total): 24811
+19:13:00,525  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:69 - Sobol (n = 100): 18266
+19:13:00,526  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:70 - Sobol (n = 100, total): 24205
+19:13:15,527 METHOD_SUCCESS pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Successfully finished: TestTest.test
+
+19:13:15,530 METHOD_STARTED pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 -
+Test Method Started: TestTest.test
+19:13:15,531 METHOD_DESCRIPTION pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Description: null
+19:13:41,449  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:49 - My: (n = 200): 14227
+19:13:41,451  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:50 - My: (n = 200, total): 25917
+19:14:21,828  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:59 - Old: (n = 200): 13698
+19:14:21,829  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:60 - Old: (n = 200, total): 25377
+19:15:01,342  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:69 - Sobol (n = 200): 13004
+19:15:01,343  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:70 - Sobol (n = 200, total): 24512
+19:15:16,344 METHOD_SUCCESS pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Successfully finished: TestTest.test
+
+19:15:16,346 METHOD_STARTED pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 -
+Test Method Started: TestTest.test
+19:15:16,347 METHOD_DESCRIPTION pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Description: null
+19:16:00,356  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:49 - My: (n = 400): 21074
+19:16:00,357  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:50 - My: (n = 400, total): 44009
+19:16:43,445  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:59 - Old: (n = 400): 5192
+19:16:43,446  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:60 - Old: (n = 400, total): 28087
+19:17:40,631  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:69 - Sobol (n = 400): 19423
+19:17:40,633  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:70 - Sobol (n = 400, total): 42183
+19:17:55,634 METHOD_SUCCESS pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Successfully finished: TestTest.test
+
+19:17:55,640 METHOD_STARTED pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 -
+Test Method Started: TestTest.test
+19:17:55,641 METHOD_DESCRIPTION pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Description: null
+19:18:00,997  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:49 - My: (n = 1): 5068
+19:18:00,998  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:50 - My: (n = 1, total): 5356
+19:18:21,294  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:59 - Old: (n = 1): 5042
+19:18:21,296  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:60 - Old: (n = 1, total): 5295
+19:18:40,637  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:69 - Sobol (n = 1): 4088
+19:18:40,639  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:70 - Sobol (n = 1, total): 4341
+19:18:55,640 METHOD_SUCCESS pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Successfully finished: TestTest.test
+
+19:18:55,642 METHOD_STARTED pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 -
+Test Method Started: TestTest.test
+19:18:55,643 METHOD_DESCRIPTION pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Description: null
+19:19:01,068  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:49 - My: (n = 2): 5098
+19:19:01,069  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:50 - My: (n = 2, total): 5424
+19:19:20,422  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:59 - Old: (n = 2): 4053
+19:19:20,423  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:60 - Old: (n = 2, total): 4352
+19:19:40,834  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:69 - Sobol (n = 2): 5107
+19:19:40,836  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:70 - Sobol (n = 2, total): 5410
+19:19:55,838 METHOD_SUCCESS pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Successfully finished: TestTest.test
+
+19:19:55,840 METHOD_STARTED pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 -
+Test Method Started: TestTest.test
+19:19:55,841 METHOD_DESCRIPTION pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Description: null
+19:20:01,365  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:49 - My: (n = 3): 5125
+19:20:01,366  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:50 - My: (n = 3, total): 5524
+19:20:20,818  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:59 - Old: (n = 3): 4053
+19:20:20,819  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:60 - Old: (n = 3, total): 4451
+19:20:41,306  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:69 - Sobol (n = 3): 5120
+19:20:41,307  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:70 - Sobol (n = 3, total): 5486
+19:20:56,309 METHOD_SUCCESS pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Successfully finished: TestTest.test
+
+19:20:56,311 METHOD_STARTED pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 -
+Test Method Started: TestTest.test
+19:20:56,313 METHOD_DESCRIPTION pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Description: null
+19:21:00,860  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:49 - My: (n = 4): 4117
+19:21:00,862  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:50 - My: (n = 4, total): 4546
+19:21:21,362  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:59 - Old: (n = 4): 5074
+19:21:21,363  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:60 - Old: (n = 4, total): 5500
+19:21:40,904  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:69 - Sobol (n = 4): 4098
+19:21:40,906  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:70 - Sobol (n = 4, total): 4540
+19:21:55,907 METHOD_SUCCESS pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Successfully finished: TestTest.test
+
+19:21:55,910 METHOD_STARTED pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 -
+Test Method Started: TestTest.test
+19:21:55,911 METHOD_DESCRIPTION pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Description: null
+19:22:00,570  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:49 - My: (n = 5): 4156
+19:22:00,571  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:50 - My: (n = 5, total): 4658
+19:22:21,118  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:59 - Old: (n = 5): 5074
+19:22:21,120  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:60 - Old: (n = 5, total): 5545
+19:22:40,729  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:69 - Sobol (n = 5): 4116
+19:22:40,730  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:70 - Sobol (n = 5, total): 4608
+19:22:55,732 METHOD_SUCCESS pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Successfully finished: TestTest.test
+
+19:22:55,735 METHOD_STARTED pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 -
+Test Method Started: TestTest.test
+19:22:55,735 METHOD_DESCRIPTION pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Description: null
+19:23:01,478  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:49 - My: (n = 6): 5198
+19:23:01,479  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:50 - My: (n = 6, total): 5742
+19:23:21,107  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:59 - Old: (n = 6): 4085
+19:23:21,108  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:60 - Old: (n = 6, total): 4627
+19:23:40,828  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:69 - Sobol (n = 6): 4116
+19:23:40,829  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:70 - Sobol (n = 6, total): 4719
+19:23:55,831 METHOD_SUCCESS pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Successfully finished: TestTest.test
+
+19:23:55,833 METHOD_STARTED pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 -
+Test Method Started: TestTest.test
+19:23:55,834 METHOD_DESCRIPTION pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Description: null
+19:24:00,638  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:49 - My: (n = 7): 4201
+19:24:00,639  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:50 - My: (n = 7, total): 4804
+19:24:21,336  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:59 - Old: (n = 7): 5088
+19:24:21,338  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:60 - Old: (n = 7, total): 5696
+19:24:41,030  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:69 - Sobol (n = 7): 4114
+19:24:41,031  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:70 - Sobol (n = 7, total): 4691
+19:24:56,033 METHOD_SUCCESS pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Successfully finished: TestTest.test
+
+19:24:56,035 METHOD_STARTED pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 -
+Test Method Started: TestTest.test
+19:24:56,035 METHOD_DESCRIPTION pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Description: null
+19:25:00,914  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:49 - My: (n = 8): 4221
+19:25:00,915  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:50 - My: (n = 8, total): 4877
+19:25:20,659  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:59 - Old: (n = 8): 4096
+19:25:20,660  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:60 - Old: (n = 8, total): 4744
+19:25:40,432  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:69 - Sobol (n = 8): 4121
+19:25:40,434  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:70 - Sobol (n = 8, total): 4771
+19:25:55,435 METHOD_SUCCESS pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Successfully finished: TestTest.test
+
+19:25:55,438 METHOD_STARTED pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 -
+Test Method Started: TestTest.test
+19:25:55,438 METHOD_DESCRIPTION pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Description: null
+19:26:01,461  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:49 - My: (n = 9): 5260
+19:26:01,462  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:50 - My: (n = 9, total): 6022
+19:26:21,282  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:59 - Old: (n = 9): 4098
+19:26:21,283  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:60 - Old: (n = 9, total): 4820
+19:26:41,128  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:69 - Sobol (n = 9): 4128
+19:26:41,129  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:70 - Sobol (n = 9, total): 4844
+19:26:56,131 METHOD_SUCCESS pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Successfully finished: TestTest.test
+
+19:26:56,133 METHOD_STARTED pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 -
+Test Method Started: TestTest.test
+19:26:56,134 METHOD_DESCRIPTION pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Description: null
+19:27:01,215  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:49 - My: (n = 10): 4297
+19:27:01,217  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:50 - My: (n = 10, total): 5081
+19:27:21,110  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:59 - Old: (n = 10): 4125
+19:27:21,111  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:60 - Old: (n = 10, total): 4892
+19:27:40,996  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:69 - Sobol (n = 10): 4122
+19:27:40,997  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:70 - Sobol (n = 10, total): 4883
+19:27:55,998 METHOD_SUCCESS pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Successfully finished: TestTest.test
+
+19:27:56,000 METHOD_STARTED pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 -
+Test Method Started: TestTest.test
+19:27:56,001 METHOD_DESCRIPTION pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Description: null
+19:28:01,745  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:49 - My: (n = 50): 2728
+19:28:01,748  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:50 - My: (n = 50, total): 5743
+19:28:41,381  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:59 - Old: (n = 50): 21544
+19:28:41,382  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:60 - Old: (n = 50, total): 24631
+19:29:21,050  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:69 - Sobol (n = 50): 21565
+19:29:21,052  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:70 - Sobol (n = 50, total): 24667
+19:29:36,053 METHOD_SUCCESS pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Successfully finished: TestTest.test
+
+19:29:36,055 METHOD_STARTED pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 -
+Test Method Started: TestTest.test
+19:29:36,056 METHOD_DESCRIPTION pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Description: null
+19:30:00,872  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:49 - My: (n = 100): 18923
+19:30:00,873  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:50 - My: (n = 100, total): 24815
+19:30:41,711  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:59 - Old: (n = 100): 19925
+19:30:41,713  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:60 - Old: (n = 100, total): 25836
+19:31:20,851  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:69 - Sobol (n = 100): 18320
+19:31:20,852  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:70 - Sobol (n = 100, total): 24137
+19:31:35,855 METHOD_SUCCESS pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Successfully finished: TestTest.test
+
+19:31:35,857 METHOD_STARTED pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 -
+Test Method Started: TestTest.test
+19:31:35,858 METHOD_DESCRIPTION pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Description: null
+19:32:01,814  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:49 - My: (n = 200): 14318
+19:32:01,815  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:50 - My: (n = 200, total): 25955
+19:32:42,183  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:59 - Old: (n = 200): 13676
+19:32:42,184  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:60 - Old: (n = 200, total): 25366
+19:33:20,662  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:69 - Sobol (n = 200): 11936
+19:33:20,663  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:70 - Sobol (n = 200, total): 23477
+19:33:35,665 METHOD_SUCCESS pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Successfully finished: TestTest.test
+
+19:33:35,667 METHOD_STARTED pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 -
+Test Method Started: TestTest.test
+19:33:35,667 METHOD_DESCRIPTION pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Description: null
+19:34:03,014  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:49 - My: (n = 400): 4526
+19:34:03,016  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:50 - My: (n = 400, total): 27346
+19:35:01,153  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:59 - Old: (n = 400): 20244
+19:35:01,155  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:60 - Old: (n = 400, total): 43136
+19:35:41,869  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:69 - Sobol (n = 400): 2820
+19:35:41,870  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:70 - Sobol (n = 400, total): 25714
+19:35:56,871 METHOD_SUCCESS pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Successfully finished: TestTest.test
+
+19:35:56,876 METHOD_STARTED pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 -
+Test Method Started: TestTest.test
+19:35:56,877 METHOD_DESCRIPTION pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Description: null
+19:36:00,216  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:49 - My: (n = 1): 3046
+19:36:00,217  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:50 - My: (n = 1, total): 3339
+19:36:20,528  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:59 - Old: (n = 1): 5046
+19:36:20,529  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:60 - Old: (n = 1, total): 5310
+19:36:40,884  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:69 - Sobol (n = 1): 5098
+19:36:40,886  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:70 - Sobol (n = 1, total): 5354
+19:36:55,888 METHOD_SUCCESS pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Successfully finished: TestTest.test
+
+19:36:55,890 METHOD_STARTED pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 -
+Test Method Started: TestTest.test
+19:36:55,891 METHOD_DESCRIPTION pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Description: null
+19:37:00,319  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:49 - My: (n = 2): 4103
+19:37:00,320  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:50 - My: (n = 2, total): 4427
+19:37:20,692  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:59 - Old: (n = 2): 5057
+19:37:20,695  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:60 - Old: (n = 2, total): 5371
+19:37:41,154  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:69 - Sobol (n = 2): 5107
+19:37:41,155  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:70 - Sobol (n = 2, total): 5458
+19:37:56,157 METHOD_SUCCESS pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Successfully finished: TestTest.test
+
+19:37:56,159 METHOD_STARTED pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 -
+Test Method Started: TestTest.test
+19:37:56,160 METHOD_DESCRIPTION pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Description: null
+19:38:00,641  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:49 - My: (n = 3): 4099
+19:38:00,642  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:50 - My: (n = 3, total): 4481
+19:38:21,071  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:59 - Old: (n = 3): 5067
+19:38:21,073  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:60 - Old: (n = 3, total): 5428
+19:38:40,610  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:69 - Sobol (n = 3): 4101
+19:38:40,611  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:70 - Sobol (n = 3, total): 4537
+19:38:55,613 METHOD_SUCCESS pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Successfully finished: TestTest.test
+
+19:38:55,617 METHOD_STARTED pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 -
+Test Method Started: TestTest.test
+19:38:55,617 METHOD_DESCRIPTION pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Description: null
+19:39:01,233  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:49 - My: (n = 4): 5166
+19:39:01,234  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:50 - My: (n = 4, total): 5615
+19:39:20,739  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:59 - Old: (n = 4): 4060
+19:39:20,741  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:60 - Old: (n = 4, total): 4504
+19:39:41,300  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:69 - Sobol (n = 4): 5124
+19:39:41,302  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:70 - Sobol (n = 4, total): 5557
+19:39:56,304 METHOD_SUCCESS pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Successfully finished: TestTest.test
+
+19:39:56,308 METHOD_STARTED pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 -
+Test Method Started: TestTest.test
+19:39:56,310 METHOD_DESCRIPTION pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Description: null
+19:40:00,982  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:49 - My: (n = 5): 4150
+19:40:00,984  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:50 - My: (n = 5, total): 4671
+19:40:20,535  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:59 - Old: (n = 5): 4062
+19:40:20,536  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:60 - Old: (n = 5, total): 4550
+19:40:41,148  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:69 - Sobol (n = 5): 5129
+19:40:41,150  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:70 - Sobol (n = 5, total): 5611
+19:40:56,153 METHOD_SUCCESS pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Successfully finished: TestTest.test
+
+19:40:56,155 METHOD_STARTED pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 -
+Test Method Started: TestTest.test
+19:40:56,157 METHOD_DESCRIPTION pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Description: null
+19:41:00,855  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:49 - My: (n = 6): 4175
+19:41:00,857  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:50 - My: (n = 6, total): 4697
+19:41:20,494  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:59 - Old: (n = 6): 4076
+19:41:20,495  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:60 - Old: (n = 6, total): 4636
+19:41:41,159  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:69 - Sobol (n = 6): 5126
+19:41:41,161  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:70 - Sobol (n = 6, total): 5662
+19:41:56,162 METHOD_SUCCESS pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Successfully finished: TestTest.test
+
+19:41:56,164 METHOD_STARTED pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 -
+Test Method Started: TestTest.test
+19:41:56,165 METHOD_DESCRIPTION pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Description: null
+19:42:00,968  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:49 - My: (n = 7): 4195
+19:42:00,969  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:50 - My: (n = 7, total): 4802
+19:42:20,686  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:59 - Old: (n = 7): 4088
+19:42:20,687  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:60 - Old: (n = 7, total): 4715
+19:42:40,392  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:69 - Sobol (n = 7): 4110
+19:42:40,394  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:70 - Sobol (n = 7, total): 4705
+19:42:55,396 METHOD_SUCCESS pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Successfully finished: TestTest.test
+
+19:42:55,398 METHOD_STARTED pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 -
+Test Method Started: TestTest.test
+19:42:55,399 METHOD_DESCRIPTION pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Description: null
+19:43:01,353  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:49 - My: (n = 8): 5268
+19:43:01,354  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:50 - My: (n = 8, total): 5953
+19:43:21,104  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:59 - Old: (n = 8): 4095
+19:43:21,106  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:60 - Old: (n = 8, total): 4749
+19:43:40,902  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:69 - Sobol (n = 8): 4138
+19:43:40,903  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:70 - Sobol (n = 8, total): 4796
+19:43:55,905 METHOD_SUCCESS pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Successfully finished: TestTest.test
+
+19:43:55,907 METHOD_STARTED pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 -
+Test Method Started: TestTest.test
+19:43:55,907 METHOD_DESCRIPTION pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Description: null
+19:44:00,867  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:49 - My: (n = 9): 4252
+19:44:00,868  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:50 - My: (n = 9, total): 4959
+19:44:20,715  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:59 - Old: (n = 9): 4111
+19:44:20,717  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:60 - Old: (n = 9, total): 4846
+19:44:40,532  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:69 - Sobol (n = 9): 4124
+19:44:40,534  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:70 - Sobol (n = 9, total): 4815
+19:44:55,535 METHOD_SUCCESS pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Successfully finished: TestTest.test
+
+19:44:55,538 METHOD_STARTED pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 -
+Test Method Started: TestTest.test
+19:44:55,539 METHOD_DESCRIPTION pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Description: null
+19:45:00,583  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:49 - My: (n = 10): 4271
+19:45:00,584  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:50 - My: (n = 10, total): 5044
+19:45:20,486  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:59 - Old: (n = 10): 4107
+19:45:20,487  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:60 - Old: (n = 10, total): 4901
+19:45:40,406  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:69 - Sobol (n = 10): 4118
+19:45:40,407  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:70 - Sobol (n = 10, total): 4918
+19:45:55,409 METHOD_SUCCESS pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Successfully finished: TestTest.test
+
+19:45:55,412 METHOD_STARTED pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 -
+Test Method Started: TestTest.test
+19:45:55,413 METHOD_DESCRIPTION pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Description: null
+19:46:01,124  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:49 - My: (n = 50): 2746
+19:46:01,125  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:50 - My: (n = 50, total): 5710
+19:46:21,593  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:59 - Old: (n = 50): 2428
+19:46:21,594  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:60 - Old: (n = 50, total): 5467
+19:47:01,153  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:69 - Sobol (n = 50): 21551
+19:47:01,154  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:70 - Sobol (n = 50, total): 24558
+19:47:16,155 METHOD_SUCCESS pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Successfully finished: TestTest.test
+
+19:47:16,158 METHOD_STARTED pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 -
+Test Method Started: TestTest.test
+19:47:16,159 METHOD_DESCRIPTION pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Description: null
+19:47:40,907  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:49 - My: (n = 100): 18854
+19:47:40,908  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:50 - My: (n = 100, total): 24748
+19:48:20,708  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:59 - Old: (n = 100): 18925
+19:48:20,709  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:60 - Old: (n = 100, total): 24799
+19:49:00,560  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:69 - Sobol (n = 100): 18971
+19:49:00,561  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:70 - Sobol (n = 100, total): 24850
+19:49:15,563 METHOD_SUCCESS pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Successfully finished: TestTest.test
+
+19:49:15,565 METHOD_STARTED pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 -
+Test Method Started: TestTest.test
+19:49:15,566 METHOD_DESCRIPTION pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Description: null
+19:49:41,933  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:49 - My: (n = 200): 14910
+19:49:41,934  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:50 - My: (n = 200, total): 26367
+19:50:22,241  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:59 - Old: (n = 200): 13672
+19:50:22,242  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:60 - Old: (n = 200, total): 25306
+19:51:00,781  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:69 - Sobol (n = 200): 12027
+19:51:00,782  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:70 - Sobol (n = 200, total): 23538
+19:51:15,784 METHOD_SUCCESS pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Successfully finished: TestTest.test
+
+19:51:15,786 METHOD_STARTED pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 -
+Test Method Started: TestTest.test
+19:51:15,787 METHOD_DESCRIPTION pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Description: null
+19:51:42,943  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:49 - My: (n = 400): 4376
+19:51:42,944  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:50 - My: (n = 400, total): 27155
+19:52:41,088  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:59 - Old: (n = 400): 20316
+19:52:41,090  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:60 - Old: (n = 400, total): 43143
+19:53:21,838  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:69 - Sobol (n = 400): 3016
+19:53:21,840  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:70 - Sobol (n = 400, total): 25747
+19:53:36,842 METHOD_SUCCESS pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Successfully finished: TestTest.test
+
+19:53:36,848 METHOD_STARTED pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 -
+Test Method Started: TestTest.test
+19:53:36,849 METHOD_DESCRIPTION pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Description: null
+19:53:41,175  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:49 - My: (n = 1): 4050
+19:53:41,177  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:50 - My: (n = 1, total): 4326
+19:54:00,485  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:59 - Old: (n = 1): 4042
+19:54:00,497  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:60 - Old: (n = 1, total): 4307
+19:54:20,855  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:69 - Sobol (n = 1): 5102
+19:54:20,857  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:70 - Sobol (n = 1, total): 5356
+19:54:35,859 METHOD_SUCCESS pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Successfully finished: TestTest.test
+
+19:54:35,861 METHOD_STARTED pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 -
+Test Method Started: TestTest.test
+19:54:35,861 METHOD_DESCRIPTION pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Description: null
+19:54:41,274  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:49 - My: (n = 2): 5095
+19:54:41,275  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:50 - My: (n = 2, total): 5412
+19:55:00,653  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:59 - Old: (n = 2): 4045
+19:55:00,654  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:60 - Old: (n = 2, total): 4377
+19:55:21,106  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:69 - Sobol (n = 2): 5108
+19:55:21,107  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:70 - Sobol (n = 2, total): 5451
+19:55:36,109 METHOD_SUCCESS pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Successfully finished: TestTest.test
+
+19:55:36,111 METHOD_STARTED pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 -
+Test Method Started: TestTest.test
+19:55:36,113 METHOD_DESCRIPTION pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Description: null
+19:55:40,585  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:49 - My: (n = 3): 4100
+19:55:40,586  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:50 - My: (n = 3, total): 4472
+19:56:01,049  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:59 - Old: (n = 3): 5063
+19:56:01,052  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:60 - Old: (n = 3, total): 5462
+19:56:20,524  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:69 - Sobol (n = 3): 4096
+19:56:20,526  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:70 - Sobol (n = 3, total): 4471
+19:56:35,527 METHOD_SUCCESS pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Successfully finished: TestTest.test
+
+19:56:35,530 METHOD_STARTED pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 -
+Test Method Started: TestTest.test
+19:56:35,530 METHOD_DESCRIPTION pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Description: null
+19:56:41,147  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:49 - My: (n = 4): 5148
+19:56:41,148  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:50 - My: (n = 4, total): 5615
+19:57:00,627  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:59 - Old: (n = 4): 4060
+19:57:00,628  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:60 - Old: (n = 4, total): 4478
+19:57:21,190  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:69 - Sobol (n = 4): 5129
+19:57:21,192  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:70 - Sobol (n = 4, total): 5560
+19:57:36,194 METHOD_SUCCESS pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Successfully finished: TestTest.test
+
+19:57:36,197 METHOD_STARTED pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 -
+Test Method Started: TestTest.test
+19:57:36,198 METHOD_DESCRIPTION pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Description: null
+19:57:40,822  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:49 - My: (n = 5): 4154
+19:57:40,823  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:50 - My: (n = 5, total): 4623
+19:58:01,391  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:59 - Old: (n = 5): 5081
+19:58:01,392  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:60 - Old: (n = 5, total): 5567
+19:58:20,973  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:69 - Sobol (n = 5): 4109
+19:58:20,975  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:70 - Sobol (n = 5, total): 4579
+19:58:35,976 METHOD_SUCCESS pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Successfully finished: TestTest.test
+
+19:58:35,979 METHOD_STARTED pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 -
+Test Method Started: TestTest.test
+19:58:35,980 METHOD_DESCRIPTION pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Description: null
+19:58:40,690  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:49 - My: (n = 6): 4175
+19:58:40,691  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:50 - My: (n = 6, total): 4709
+19:59:01,303  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:59 - Old: (n = 6): 5081
+19:59:01,304  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:60 - Old: (n = 6, total): 5611
+19:59:20,995  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:69 - Sobol (n = 6): 4119
+19:59:20,997  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:70 - Sobol (n = 6, total): 4690
+19:59:35,999 METHOD_SUCCESS pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Successfully finished: TestTest.test
+
+19:59:36,002 METHOD_STARTED pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 -
+Test Method Started: TestTest.test
+19:59:36,002 METHOD_DESCRIPTION pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Description: null
+19:59:40,814  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:49 - My: (n = 7): 4201
+19:59:40,815  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:50 - My: (n = 7, total): 4811
+20:00:00,537  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:59 - Old: (n = 7): 4089
+20:00:00,538  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:60 - Old: (n = 7, total): 4721
+20:00:21,287  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:69 - Sobol (n = 7): 5156
+20:00:21,288  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:70 - Sobol (n = 7, total): 5748
+20:00:36,290 METHOD_SUCCESS pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Successfully finished: TestTest.test
+
+20:00:36,292 METHOD_STARTED pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 -
+Test Method Started: TestTest.test
+20:00:36,293 METHOD_DESCRIPTION pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Description: null
+20:00:41,179  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:49 - My: (n = 8): 4230
+20:00:41,180  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:50 - My: (n = 8, total): 4886
+20:01:00,945  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:59 - Old: (n = 8): 4093
+20:01:00,946  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:60 - Old: (n = 8, total): 4764
+20:01:20,730  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:69 - Sobol (n = 8): 4114
+20:01:20,731  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:70 - Sobol (n = 8, total): 4783
+20:01:35,733 METHOD_SUCCESS pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Successfully finished: TestTest.test
+
+20:01:35,735 METHOD_STARTED pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 -
+Test Method Started: TestTest.test
+20:01:35,736 METHOD_DESCRIPTION pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Description: null
+20:01:40,684  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:49 - My: (n = 9): 4245
+20:01:40,685  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:50 - My: (n = 9, total): 4948
+20:02:00,541  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:59 - Old: (n = 9): 4105
+20:02:00,542  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:60 - Old: (n = 9, total): 4855
+20:02:21,416  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:69 - Sobol (n = 9): 5147
+20:02:21,417  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:70 - Sobol (n = 9, total): 5873
+20:02:36,418 METHOD_SUCCESS pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Successfully finished: TestTest.test
+
+20:02:36,420 METHOD_STARTED pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 -
+Test Method Started: TestTest.test
+20:02:36,421 METHOD_DESCRIPTION pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Description: null
+20:02:40,431  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:49 - My: (n = 10): 3240
+20:02:40,432  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:50 - My: (n = 10, total): 4009
+20:03:01,309  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:59 - Old: (n = 10): 5111
+20:03:01,311  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:60 - Old: (n = 10, total): 5876
+20:03:21,200  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:69 - Sobol (n = 10): 4131
+20:03:21,202  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:70 - Sobol (n = 10, total): 4888
+20:03:36,204 METHOD_SUCCESS pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Successfully finished: TestTest.test
+
+20:03:36,207 METHOD_STARTED pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 -
+Test Method Started: TestTest.test
+20:03:36,208 METHOD_DESCRIPTION pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Description: null
+20:03:40,744  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:49 - My: (n = 50): 1489
+20:03:40,746  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:50 - My: (n = 50, total): 4535
+20:04:01,202  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:59 - Old: (n = 50): 2420
+20:04:01,204  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:60 - Old: (n = 50, total): 5455
+20:04:21,437  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:69 - Sobol (n = 50): 2206
+20:04:21,439  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:70 - Sobol (n = 50, total): 5232
+20:04:36,441 METHOD_SUCCESS pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Successfully finished: TestTest.test
+
+20:04:36,444 METHOD_STARTED pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 -
+Test Method Started: TestTest.test
+20:04:36,445 METHOD_DESCRIPTION pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Description: null
+20:05:01,481  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:49 - My: (n = 100): 19162
+20:05:01,483  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:50 - My: (n = 100, total): 25035
+20:05:41,392  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:59 - Old: (n = 100): 18940
+20:05:41,394  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:60 - Old: (n = 100, total): 24908
+20:06:20,464  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:69 - Sobol (n = 100): 18151
+20:06:20,466  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:70 - Sobol (n = 100, total): 24069
+20:06:35,468 METHOD_SUCCESS pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Successfully finished: TestTest.test
+
+20:06:35,470 METHOD_STARTED pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 -
+Test Method Started: TestTest.test
+20:06:35,471 METHOD_DESCRIPTION pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Description: null
+20:07:02,057  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:49 - My: (n = 200): 14901
+20:07:02,058  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:50 - My: (n = 200, total): 26585
+20:07:42,188  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:59 - Old: (n = 200): 13678
+20:07:42,189  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:60 - Old: (n = 200, total): 25129
+20:08:20,706  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:69 - Sobol (n = 200): 11978
+20:08:20,707  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:70 - Sobol (n = 200, total): 23515
+20:08:35,708 METHOD_SUCCESS pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Successfully finished: TestTest.test
+
+20:08:35,710 METHOD_STARTED pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 -
+Test Method Started: TestTest.test
+20:08:35,711 METHOD_DESCRIPTION pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Description: null
+20:09:02,974  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:49 - My: (n = 400): 4533
+20:09:02,975  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:50 - My: (n = 400, total): 27263
+20:10:01,309  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:59 - Old: (n = 400): 20293
+20:10:01,310  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:60 - Old: (n = 400, total): 43333
+20:10:41,048  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:69 - Sobol (n = 400): 1797
+20:10:41,049  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:70 - Sobol (n = 400, total): 24737
+20:10:56,051 METHOD_SUCCESS pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Successfully finished: TestTest.test
+
+20:10:56,055 METHOD_STARTED pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 -
+Test Method Started: TestTest.test
+20:10:56,056 METHOD_DESCRIPTION pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Description: null
+20:11:00,377  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:49 - My: (n = 1): 4049
+20:11:00,378  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:50 - My: (n = 1, total): 4321
+20:11:20,697  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:59 - Old: (n = 1): 5047
+20:11:20,699  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:60 - Old: (n = 1, total): 5319
+20:11:41,085  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:69 - Sobol (n = 1): 5108
+20:11:41,086  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:70 - Sobol (n = 1, total): 5385
+20:11:56,088 METHOD_SUCCESS pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Successfully finished: TestTest.test
+
+20:11:56,090 METHOD_STARTED pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 -
+Test Method Started: TestTest.test
+20:11:56,091 METHOD_DESCRIPTION pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Description: null
+20:12:00,493  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:49 - My: (n = 2): 4081
+20:12:00,494  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:50 - My: (n = 2, total): 4401
+20:12:20,923  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:59 - Old: (n = 2): 5052
+20:12:20,924  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:60 - Old: (n = 2, total): 5428
+20:12:40,386  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:69 - Sobol (n = 2): 4095
+20:12:40,388  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:70 - Sobol (n = 2, total): 4461
+20:12:55,390 METHOD_SUCCESS pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Successfully finished: TestTest.test
+
+20:12:55,392 METHOD_STARTED pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 -
+Test Method Started: TestTest.test
+20:12:55,394 METHOD_DESCRIPTION pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Description: null
+20:13:00,900  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:49 - My: (n = 3): 5124
+20:13:00,903  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:50 - My: (n = 3, total): 5505
+20:13:20,333  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:59 - Old: (n = 3): 4056
+20:13:20,334  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:60 - Old: (n = 3, total): 4428
+20:13:40,859  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:69 - Sobol (n = 3): 5121
+20:13:40,860  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:70 - Sobol (n = 3, total): 5524
+20:13:55,862 METHOD_SUCCESS pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Successfully finished: TestTest.test
+
+20:13:55,864 METHOD_STARTED pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 -
+Test Method Started: TestTest.test
+20:13:55,865 METHOD_DESCRIPTION pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Description: null
+20:14:00,461  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:49 - My: (n = 4): 4135
+20:14:00,462  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:50 - My: (n = 4, total): 4595
+20:14:20,993  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:59 - Old: (n = 4): 5063
+20:14:20,995  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:60 - Old: (n = 4, total): 5530
+20:14:40,540  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:69 - Sobol (n = 4): 4096
+20:14:40,540  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:70 - Sobol (n = 4, total): 4545
+20:14:55,541 METHOD_SUCCESS pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Successfully finished: TestTest.test
+
+20:14:55,544 METHOD_STARTED pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 -
+Test Method Started: TestTest.test
+20:14:55,545 METHOD_DESCRIPTION pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Description: null
+20:15:01,227  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:49 - My: (n = 5): 5175
+20:15:01,228  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:50 - My: (n = 5, total): 5682
+20:15:20,802  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:59 - Old: (n = 5): 4077
+20:15:20,803  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:60 - Old: (n = 5, total): 4573
+20:15:40,390  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:69 - Sobol (n = 5): 4111
+20:15:40,391  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:70 - Sobol (n = 5, total): 4587
+20:15:55,393 METHOD_SUCCESS pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Successfully finished: TestTest.test
+
+20:15:55,396 METHOD_STARTED pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 -
+Test Method Started: TestTest.test
+20:15:55,397 METHOD_DESCRIPTION pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Description: null
+20:16:01,180  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:49 - My: (n = 6): 5210
+20:16:01,182  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:50 - My: (n = 6, total): 5782
+20:16:20,836  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:59 - Old: (n = 6): 4076
+20:16:20,837  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:60 - Old: (n = 6, total): 4654
+20:16:40,491  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:69 - Sobol (n = 6): 4107
+20:16:40,493  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:70 - Sobol (n = 6, total): 4653
+20:16:55,494 METHOD_SUCCESS pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Successfully finished: TestTest.test
+
+20:16:55,496 METHOD_STARTED pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 -
+Test Method Started: TestTest.test
+20:16:55,497 METHOD_DESCRIPTION pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Description: null
+20:17:01,315  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:49 - My: (n = 7): 5224
+20:17:01,316  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:50 - My: (n = 7, total): 5817
+20:17:21,057  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:59 - Old: (n = 7): 4096
+20:17:21,058  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:60 - Old: (n = 7, total): 4740
+20:17:40,801  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:69 - Sobol (n = 7): 4113
+20:17:40,802  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:70 - Sobol (n = 7, total): 4741
+20:17:55,804 METHOD_SUCCESS pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Successfully finished: TestTest.test
+
+20:17:55,806 METHOD_STARTED pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 -
+Test Method Started: TestTest.test
+20:17:55,806 METHOD_DESCRIPTION pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Description: null
+20:18:00,680  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:49 - My: (n = 8): 4233
+20:18:00,681  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:50 - My: (n = 8, total): 4873
+20:18:20,446  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:59 - Old: (n = 8): 4090
+20:18:20,447  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:60 - Old: (n = 8, total): 4763
+20:18:41,294  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:69 - Sobol (n = 8): 5170
+20:18:41,296  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:70 - Sobol (n = 8, total): 5845
+20:18:56,298 METHOD_SUCCESS pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Successfully finished: TestTest.test
+
+20:18:56,300 METHOD_STARTED pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 -
+Test Method Started: TestTest.test
+20:18:56,302 METHOD_DESCRIPTION pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Description: null
+20:19:01,240  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:49 - My: (n = 9): 4247
+20:19:01,242  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:50 - My: (n = 9, total): 4937
+20:19:21,062  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:59 - Old: (n = 9): 4103
+20:19:21,063  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:60 - Old: (n = 9, total): 4818
+20:19:40,918  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:69 - Sobol (n = 9): 4123
+20:19:40,920  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:70 - Sobol (n = 9, total): 4854
+20:19:55,921 METHOD_SUCCESS pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Successfully finished: TestTest.test
+
+20:19:55,924 METHOD_STARTED pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 -
+Test Method Started: TestTest.test
+20:19:55,925 METHOD_DESCRIPTION pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Description: null
+20:20:00,997  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:49 - My: (n = 10): 4280
+20:20:00,998  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:50 - My: (n = 10, total): 5071
+20:20:20,887  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:59 - Old: (n = 10): 4103
+20:20:20,888  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:60 - Old: (n = 10, total): 4888
+20:20:40,808  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:69 - Sobol (n = 10): 4143
+20:20:40,809  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:70 - Sobol (n = 10, total): 4919
+20:20:55,811 METHOD_SUCCESS pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Successfully finished: TestTest.test
+
+20:20:55,813 METHOD_STARTED pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 -
+Test Method Started: TestTest.test
+20:20:55,814 METHOD_DESCRIPTION pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Description: null
+20:21:01,601  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:49 - My: (n = 50): 2735
+20:21:01,602  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:50 - My: (n = 50, total): 5786
+20:21:41,246  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:59 - Old: (n = 50): 21553
+20:21:41,246  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:60 - Old: (n = 50, total): 24643
+20:22:00,447  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:69 - Sobol (n = 50): 1134
+20:22:00,448  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:70 - Sobol (n = 50, total): 4200
+20:22:15,449 METHOD_SUCCESS pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Successfully finished: TestTest.test
+
+20:22:15,451 METHOD_STARTED pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 -
+Test Method Started: TestTest.test
+20:22:15,452 METHOD_DESCRIPTION pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Description: null
+20:22:41,496  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:49 - My: (n = 100): 20015
+20:22:41,497  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:50 - My: (n = 100, total): 26044
+20:23:21,379  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:59 - Old: (n = 100): 18934
+20:23:21,380  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:60 - Old: (n = 100, total): 24881
+20:24:00,546  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:69 - Sobol (n = 100): 18261
+20:24:00,548  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:70 - Sobol (n = 100, total): 24165
+20:24:15,550 METHOD_SUCCESS pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Successfully finished: TestTest.test
+
+20:24:15,552 METHOD_STARTED pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 -
+Test Method Started: TestTest.test
+20:24:15,553 METHOD_DESCRIPTION pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Description: null
+20:25:00,875  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:49 - My: (n = 200): 33506
+20:25:00,876  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:50 - My: (n = 200, total): 45321
+20:25:42,159  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:59 - Old: (n = 200): 14614
+20:25:42,159  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:60 - Old: (n = 200, total): 26281
+20:26:20,600  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:69 - Sobol (n = 200): 11963
+20:26:20,601  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:70 - Sobol (n = 200, total): 23440
+20:26:35,603 METHOD_SUCCESS pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Successfully finished: TestTest.test
+
+20:26:35,605 METHOD_STARTED pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 -
+Test Method Started: TestTest.test
+20:26:35,605 METHOD_DESCRIPTION pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Description: null
+20:27:03,078  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:49 - My: (n = 400): 4378
+20:27:03,079  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:50 - My: (n = 400, total): 27472
+20:28:01,479  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:59 - Old: (n = 400): 20289
+20:28:01,480  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:60 - Old: (n = 400, total): 43399
+20:28:41,082  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:69 - Sobol (n = 400): 1738
+20:28:41,084  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:70 - Sobol (n = 400, total): 24601
+20:28:56,085 METHOD_SUCCESS pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Successfully finished: TestTest.test
+
+20:28:56,090 METHOD_STARTED pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 -
+Test Method Started: TestTest.test
+20:28:56,091 METHOD_DESCRIPTION pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Description: null
+20:29:01,453  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:49 - My: (n = 1): 5058
+20:29:01,454  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:50 - My: (n = 1, total): 5361
+20:29:20,777  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:59 - Old: (n = 1): 4046
+20:29:20,778  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:60 - Old: (n = 1, total): 4322
+20:29:41,141  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:69 - Sobol (n = 1): 5096
+20:29:41,142  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:70 - Sobol (n = 1, total): 5362
+20:29:56,143 METHOD_SUCCESS pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Successfully finished: TestTest.test
+
+20:29:56,144 METHOD_STARTED pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 -
+Test Method Started: TestTest.test
+20:29:56,149 METHOD_DESCRIPTION pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Description: null
+20:30:00,539  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:49 - My: (n = 2): 4073
+20:30:00,540  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:50 - My: (n = 2, total): 4389
+20:30:20,901  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:59 - Old: (n = 2): 5048
+20:30:20,902  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:60 - Old: (n = 2, total): 5361
+20:30:41,337  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:69 - Sobol (n = 2): 5117
+20:30:41,338  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:70 - Sobol (n = 2, total): 5434
+20:30:56,340 METHOD_SUCCESS pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Successfully finished: TestTest.test
+
+20:30:56,342 METHOD_STARTED pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 -
+Test Method Started: TestTest.test
+20:30:56,342 METHOD_DESCRIPTION pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Description: null
+20:31:00,817  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:49 - My: (n = 3): 4098
+20:31:00,819  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:50 - My: (n = 3, total): 4474
+20:31:21,264  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:59 - Old: (n = 3): 5063
+20:31:21,265  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:60 - Old: (n = 3, total): 5445
+20:31:40,731  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:69 - Sobol (n = 3): 4093
+20:31:40,733  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:70 - Sobol (n = 3, total): 4465
+20:31:55,735 METHOD_SUCCESS pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Successfully finished: TestTest.test
+
+20:31:55,737 METHOD_STARTED pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 -
+Test Method Started: TestTest.test
+20:31:55,738 METHOD_DESCRIPTION pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Description: null
+20:32:01,326  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:49 - My: (n = 4): 5145
+20:32:01,327  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:50 - My: (n = 4, total): 5587
+20:32:20,882  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:59 - Old: (n = 4): 4059
+20:32:20,883  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:60 - Old: (n = 4, total): 4554
+20:32:41,435  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:69 - Sobol (n = 4): 5130
+20:32:41,437  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:70 - Sobol (n = 4, total): 5551
+20:32:56,438 METHOD_SUCCESS pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Successfully finished: TestTest.test
+
+20:32:56,440 METHOD_STARTED pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 -
+Test Method Started: TestTest.test
+20:32:56,441 METHOD_DESCRIPTION pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Description: null
+20:33:01,114  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:49 - My: (n = 5): 4143
+20:33:01,116  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:50 - My: (n = 5, total): 4672
+20:33:20,693  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:59 - Old: (n = 5): 4080
+20:33:20,694  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:60 - Old: (n = 5, total): 4576
+20:33:41,313  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:69 - Sobol (n = 5): 5129
+20:33:41,314  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:70 - Sobol (n = 5, total): 5619
+20:33:56,316 METHOD_SUCCESS pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Successfully finished: TestTest.test
+
+20:33:56,318 METHOD_STARTED pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 -
+Test Method Started: TestTest.test
+20:33:56,319 METHOD_DESCRIPTION pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Description: null
+20:34:01,032  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:49 - My: (n = 6): 4169
+20:34:01,033  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:50 - My: (n = 6, total): 4713
+20:34:20,659  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:59 - Old: (n = 6): 4068
+20:34:20,659  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:60 - Old: (n = 6, total): 4626
+20:34:41,380  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:69 - Sobol (n = 6): 5140
+20:34:41,382  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:70 - Sobol (n = 6, total): 5720
+20:34:56,384 METHOD_SUCCESS pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Successfully finished: TestTest.test
+
+20:34:56,386 METHOD_STARTED pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 -
+Test Method Started: TestTest.test
+20:34:56,387 METHOD_DESCRIPTION pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Description: null
+20:35:01,208  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:49 - My: (n = 7): 4215
+20:35:01,209  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:50 - My: (n = 7, total): 4821
+20:35:20,902  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:59 - Old: (n = 7): 4093
+20:35:20,903  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:60 - Old: (n = 7, total): 4692
+20:35:40,673  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:69 - Sobol (n = 7): 4115
+20:35:40,674  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:70 - Sobol (n = 7, total): 4769
+20:35:55,676 METHOD_SUCCESS pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Successfully finished: TestTest.test
+
+20:35:55,678 METHOD_STARTED pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 -
+Test Method Started: TestTest.test
+20:35:55,679 METHOD_DESCRIPTION pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Description: null
+20:36:00,594  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:49 - My: (n = 8): 4242
+20:36:00,596  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:50 - My: (n = 8, total): 4914
+20:36:21,332  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:59 - Old: (n = 8): 5096
+20:36:21,333  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:60 - Old: (n = 8, total): 5735
+20:36:41,105  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:69 - Sobol (n = 8): 4120
+20:36:41,106  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:70 - Sobol (n = 8, total): 4771
+20:36:56,107 METHOD_SUCCESS pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Successfully finished: TestTest.test
+
+20:36:56,110 METHOD_STARTED pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 -
+Test Method Started: TestTest.test
+20:36:56,110 METHOD_DESCRIPTION pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Description: null
+20:37:01,107  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:49 - My: (n = 9): 4258
+20:37:01,110  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:50 - My: (n = 9, total): 4996
+20:37:20,922  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:59 - Old: (n = 9): 4109
+20:37:20,923  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:60 - Old: (n = 9, total): 4811
+20:37:40,771  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:69 - Sobol (n = 9): 4126
+20:37:40,773  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:70 - Sobol (n = 9, total): 4847
+20:37:55,775 METHOD_SUCCESS pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Successfully finished: TestTest.test
+
+20:37:55,777 METHOD_STARTED pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 -
+Test Method Started: TestTest.test
+20:37:55,778 METHOD_DESCRIPTION pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Description: null
+20:38:00,831  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:49 - My: (n = 10): 4267
+20:38:00,834  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:50 - My: (n = 10, total): 5052
+20:38:20,726  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:59 - Old: (n = 10): 4106
+20:38:20,727  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:60 - Old: (n = 10, total): 4892
+20:38:40,617  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:69 - Sobol (n = 10): 4132
+20:38:40,619  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:70 - Sobol (n = 10, total): 4889
+20:38:55,621 METHOD_SUCCESS pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Successfully finished: TestTest.test
+
+20:38:55,624 METHOD_STARTED pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 -
+Test Method Started: TestTest.test
+20:38:55,625 METHOD_DESCRIPTION pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Description: null
+20:39:01,467  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:49 - My: (n = 50): 2767
+20:39:01,468  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:50 - My: (n = 50, total): 5841
+20:39:20,931  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:59 - Old: (n = 50): 1412
+20:39:20,933  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:60 - Old: (n = 50, total): 4461
+20:39:41,219  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:69 - Sobol (n = 50): 2202
+20:39:41,220  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:70 - Sobol (n = 50, total): 5284
+20:39:56,221 METHOD_SUCCESS pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Successfully finished: TestTest.test
+
+20:39:56,223 METHOD_STARTED pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 -
+Test Method Started: TestTest.test
+20:39:56,224 METHOD_DESCRIPTION pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Description: null
+20:40:21,606  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:49 - My: (n = 100): 19429
+20:40:21,607  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:50 - My: (n = 100, total): 25381
+20:41:01,447  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:59 - Old: (n = 100): 18940
+20:41:01,448  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:60 - Old: (n = 100, total): 24839
+20:41:40,705  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:69 - Sobol (n = 100): 18350
+20:41:40,706  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:70 - Sobol (n = 100, total): 24256
+20:41:55,708 METHOD_SUCCESS pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Successfully finished: TestTest.test
+
+20:41:55,710 METHOD_STARTED pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 -
+Test Method Started: TestTest.test
+20:41:55,711 METHOD_DESCRIPTION pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Description: null
+20:42:21,745  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:49 - My: (n = 200): 14450
+20:42:21,746  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:50 - My: (n = 200, total): 26033
+20:43:02,156  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:59 - Old: (n = 200): 13699
+20:43:02,157  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:60 - Old: (n = 200, total): 25409
+20:43:41,656  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:69 - Sobol (n = 200): 13005
+20:43:41,657  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:70 - Sobol (n = 200, total): 24498
+20:43:56,658 METHOD_SUCCESS pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Successfully finished: TestTest.test
+
+20:43:56,661 METHOD_STARTED pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 -
+Test Method Started: TestTest.test
+20:43:56,662 METHOD_DESCRIPTION pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Description: null
+20:44:41,140  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:49 - My: (n = 400): 21492
+20:44:41,141  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:50 - My: (n = 400, total): 44478
+20:45:23,647  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:59 - Old: (n = 400): 4278
+20:45:23,649  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:60 - Old: (n = 400, total): 27505
+20:46:20,548  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:69 - Sobol (n = 400): 19179
+20:46:20,550  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:70 - Sobol (n = 400, total): 41899
+20:46:35,552 METHOD_SUCCESS pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Successfully finished: TestTest.test
+
+20:46:35,557 METHOD_STARTED pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 -
+Test Method Started: TestTest.test
+20:46:35,557 METHOD_DESCRIPTION pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Description: null
+20:46:40,955  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:49 - My: (n = 1): 5065
+20:46:40,956  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:50 - My: (n = 1, total): 5397
+20:47:01,299  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:59 - Old: (n = 1): 5042
+20:47:01,301  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:60 - Old: (n = 1, total): 5342
+20:47:20,655  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:69 - Sobol (n = 1): 4089
+20:47:20,657  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:70 - Sobol (n = 1, total): 4353
+20:47:35,658 METHOD_SUCCESS pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Successfully finished: TestTest.test
+
+20:47:35,660 METHOD_STARTED pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 -
+Test Method Started: TestTest.test
+20:47:35,661 METHOD_DESCRIPTION pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Description: null
+20:47:41,077  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:49 - My: (n = 2): 5090
+20:47:41,078  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:50 - My: (n = 2, total): 5415
+20:48:00,437  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:59 - Old: (n = 2): 4050
+20:48:00,438  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:60 - Old: (n = 2, total): 4358
+20:48:20,873  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:69 - Sobol (n = 2): 5115
+20:48:20,875  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:70 - Sobol (n = 2, total): 5434
+20:48:35,876 METHOD_SUCCESS pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Successfully finished: TestTest.test
+
+20:48:35,878 METHOD_STARTED pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 -
+Test Method Started: TestTest.test
+20:48:35,879 METHOD_DESCRIPTION pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Description: null
+20:48:40,351  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:49 - My: (n = 3): 4097
+20:48:40,352  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:50 - My: (n = 3, total): 4472
+20:49:00,781  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:59 - Old: (n = 3): 5058
+20:49:00,782  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:60 - Old: (n = 3, total): 5428
+20:49:21,309  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:69 - Sobol (n = 3): 5139
+20:49:21,311  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:70 - Sobol (n = 3, total): 5526
+20:49:36,313 METHOD_SUCCESS pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Successfully finished: TestTest.test
+
+20:49:36,315 METHOD_STARTED pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 -
+Test Method Started: TestTest.test
+20:49:36,316 METHOD_DESCRIPTION pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Description: null
+20:49:40,899  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:49 - My: (n = 4): 4124
+20:49:40,900  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:50 - My: (n = 4, total): 4582
+20:50:00,396  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:59 - Old: (n = 4): 4064
+20:50:00,397  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:60 - Old: (n = 4, total): 4495
+20:50:20,956  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:69 - Sobol (n = 4): 5127
+20:50:20,958  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:70 - Sobol (n = 4, total): 5558
+20:50:35,959 METHOD_SUCCESS pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Successfully finished: TestTest.test
+
+20:50:35,961 METHOD_STARTED pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 -
+Test Method Started: TestTest.test
+20:50:35,962 METHOD_DESCRIPTION pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Description: null
+20:50:40,631  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:49 - My: (n = 5): 4155
+20:50:40,632  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:50 - My: (n = 5, total): 4669
+20:51:01,218  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:59 - Old: (n = 5): 5075
+20:51:01,219  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:60 - Old: (n = 5, total): 5585
+20:51:20,827  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:69 - Sobol (n = 5): 4109
+20:51:20,828  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:70 - Sobol (n = 5, total): 4607
+20:51:35,829 METHOD_SUCCESS pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Successfully finished: TestTest.test
+
+20:51:35,831 METHOD_STARTED pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 -
+Test Method Started: TestTest.test
+20:51:35,832 METHOD_DESCRIPTION pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Description: null
+20:51:40,524  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:49 - My: (n = 6): 4163
+20:51:40,525  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:50 - My: (n = 6, total): 4691
+20:52:01,157  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:59 - Old: (n = 6): 5090
+20:52:01,158  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:60 - Old: (n = 6, total): 5631
+20:52:20,817  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:69 - Sobol (n = 6): 4107
+20:52:20,819  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:70 - Sobol (n = 6, total): 4658
+20:52:35,820 METHOD_SUCCESS pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Successfully finished: TestTest.test
+
+20:52:35,822 METHOD_STARTED pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 -
+Test Method Started: TestTest.test
+20:52:35,822 METHOD_DESCRIPTION pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Description: null
+20:52:40,656  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:49 - My: (n = 7): 4200
+20:52:40,657  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:50 - My: (n = 7, total): 4833
+20:53:01,355  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:59 - Old: (n = 7): 5091
+20:53:01,356  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:60 - Old: (n = 7, total): 5697
+20:53:21,079  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:69 - Sobol (n = 7): 4114
+20:53:21,080  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:70 - Sobol (n = 7, total): 4722
+20:53:36,082 METHOD_SUCCESS pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Successfully finished: TestTest.test
+
+20:53:36,084 METHOD_STARTED pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 -
+Test Method Started: TestTest.test
+20:53:36,085 METHOD_DESCRIPTION pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Description: null
+20:53:40,965  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:49 - My: (n = 8): 4216
+20:53:40,966  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:50 - My: (n = 8, total): 4880
+20:54:00,780  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:59 - Old: (n = 8): 4097
+20:54:00,782  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:60 - Old: (n = 8, total): 4813
+20:54:20,558  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:69 - Sobol (n = 8): 4118
+20:54:20,559  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:70 - Sobol (n = 8, total): 4775
+20:54:35,561 METHOD_SUCCESS pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Successfully finished: TestTest.test
+
+20:54:35,563 METHOD_STARTED pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 -
+Test Method Started: TestTest.test
+20:54:35,564 METHOD_DESCRIPTION pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Description: null
+20:54:40,567  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:49 - My: (n = 9): 4254
+20:54:40,569  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:50 - My: (n = 9, total): 5002
+20:55:01,376  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:59 - Old: (n = 9): 5108
+20:55:01,377  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:60 - Old: (n = 9, total): 5806
+20:55:21,219  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:69 - Sobol (n = 9): 4144
+20:55:21,220  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:70 - Sobol (n = 9, total): 4841
+20:55:36,221 METHOD_SUCCESS pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Successfully finished: TestTest.test
+
+20:55:36,223 METHOD_STARTED pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 -
+Test Method Started: TestTest.test
+20:55:36,224 METHOD_DESCRIPTION pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Description: null
+20:55:41,243  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:49 - My: (n = 10): 4258
+20:55:41,244  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:50 - My: (n = 10, total): 5018
+20:56:01,156  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:59 - Old: (n = 10): 4117
+20:56:01,157  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:60 - Old: (n = 10, total): 4911
+20:56:21,250  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:69 - Sobol (n = 10): 4295
+20:56:21,251  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:70 - Sobol (n = 10, total): 5092
+20:56:36,253 METHOD_SUCCESS pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Successfully finished: TestTest.test
+
+20:56:36,255 METHOD_STARTED pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 -
+Test Method Started: TestTest.test
+20:56:36,256 METHOD_DESCRIPTION pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Description: null
+20:56:40,750  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:49 - My: (n = 50): 1507
+20:56:40,751  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:50 - My: (n = 50, total): 4492
+20:57:01,188  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:59 - Old: (n = 50): 2415
+20:57:01,189  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:60 - Old: (n = 50, total): 5436
+20:57:40,796  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:69 - Sobol (n = 50): 21543
+20:57:40,797  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:70 - Sobol (n = 50, total): 24606
+20:57:55,798 METHOD_SUCCESS pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Successfully finished: TestTest.test
+
+20:57:55,800 METHOD_STARTED pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 -
+Test Method Started: TestTest.test
+20:57:55,801 METHOD_DESCRIPTION pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Description: null
+20:58:20,669  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:49 - My: (n = 100): 18912
+20:58:20,670  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:50 - My: (n = 100, total): 24867
+20:59:01,562  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:59 - Old: (n = 100): 19965
+20:59:01,563  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:60 - Old: (n = 100, total): 25891
+20:59:40,719  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:69 - Sobol (n = 100): 18340
+20:59:40,720  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:70 - Sobol (n = 100, total): 24155
+20:59:55,722 METHOD_SUCCESS pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Successfully finished: TestTest.test
+
+20:59:55,724 METHOD_STARTED pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 -
+Test Method Started: TestTest.test
+20:59:55,724 METHOD_DESCRIPTION pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Description: null
+21:00:21,763  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:49 - My: (n = 200): 14321
+21:00:21,764  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:50 - My: (n = 200, total): 26038
+21:01:01,898  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:59 - Old: (n = 200): 13696
+21:01:01,900  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:60 - Old: (n = 200, total): 25133
+21:01:41,399  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:69 - Sobol (n = 200): 13056
+21:01:41,400  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:70 - Sobol (n = 200, total): 24498
+21:01:56,402 METHOD_SUCCESS pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Successfully finished: TestTest.test
+
+21:01:56,404 METHOD_STARTED pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 -
+Test Method Started: TestTest.test
+21:01:56,405 METHOD_DESCRIPTION pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Description: null
+21:02:40,741  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:49 - My: (n = 400): 21138
+21:02:40,742  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:50 - My: (n = 400, total): 44336
+21:03:23,887  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:59 - Old: (n = 400): 5268
+21:03:23,888  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:60 - Old: (n = 400, total): 28144
+21:04:21,071  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:69 - Sobol (n = 400): 19508
+21:04:21,072  INFO pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:test:70 - Sobol (n = 400, total): 42182
+21:04:36,074 METHOD_SUCCESS pool-1-thread-1 5f23ad12-0287-46b0-8805-3d6ad139bfbc:writeArrayToLog:45 - Test Method Successfully finished: TestTest.test
